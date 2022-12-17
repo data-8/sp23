@@ -6,17 +6,18 @@ nav_exclude: false
 permalink: index.html
 seo:
   type: Course
-  name: Data 8 Fall 2022
+  name: Data 8 Spring 2023
 ---
 
 # Data 8: Foundations of Data Science
 
 {: .mb-2 }
-UC Berkeley, Fall 2022
+UC Berkeley, Spring 2023
 {: .mb-2 .fs-6 .text-grey-dk-000 }
 
+[Site Under Construction](#){: .btn .btn-yellow}
 
-[Lecture Zoom Link](https://berkeley.zoom.us/j/96844490266){: .btn .btn-blue}
+<!--[Lecture Zoom Link](https://berkeley.zoom.us/j/96844490266){: .btn .btn-blue}-->
 
 ## Announcements
 
