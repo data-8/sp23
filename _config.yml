@@ -20,7 +20,7 @@ email: data8@berkeley.edu
 baseurl: '/sp23' # the subpath of your site, e.g. /blog
 url: 'https://data8.org' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
-logo: "/assets/data8logo.png"
+logo: "/data8logo.png"
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.3.3
