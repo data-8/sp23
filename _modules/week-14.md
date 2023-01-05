@@ -3,11 +3,17 @@ title: Week 14
 class: Berkeley
 ---
 
-Nov 21
-: Canceled: No Class
+Apr 24
+: **37**{: .label} Updating Probabilities
+  : <!--[Slides]#) &#8226; [Demos](#) &#8226; [Video](#)-->
+: *Reading:* [13](https://inferentialthinking.com/chapters/13/Estimation.html), [18](https://inferentialthinking.com/chapters/18/Updating_Predictions.html)
+: **Lab**{: .label .label-lab} Lab 10: Conditional Probability (Due 4/28)
+  : <!--[Lab 10 Worksheet](#)-->
 
-Nov 23
-: Holiday: No Class
+Apr 26
+: **38**{: .label} Case Study: Health
+  : <!--[Slides]#) &#8226; [Demos](#) &#8226; [Video](#)-->
 
-Nov 25
-: Holiday: No Class
+Apr 28
+: **39**{: .label} Conclusion
+  : <!--[Slides]#) &#8226; [Demos](#) &#8226; [Video](#)-->

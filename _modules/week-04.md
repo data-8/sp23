@@ -7,7 +7,7 @@ Feb 6
 : **9**{: .label} Functions
   : <!--[Slides](#) &#8226; [Demos](#) &#8226; [Video](#)-->
 : *Reading:* [8](https://inferentialthinking.com/chapters/08/Functions_and_Tables.html), [8.1](https://inferentialthinking.com/chapters/08/1/Applying_a_Function_to_a_Column.html)
-: **Lab**{: .label .label-lab} Lab 04: Functions and Visualization (Due 9/16)
+: **Lab**{: .label .label-lab} Lab 04: Functions and Visualization (Due 2/10)
   : <!--[Lab 04 Worksheet](#)-->
 
 Feb 8
@@ -19,5 +19,5 @@ Feb 10
 : **11**{: .label} Pivots and Joins
   : <!--[Slides](#) &#8226; [Demos](#) &#8226; [Video](#)-->
 : *Reading:* [8.4](https://inferentialthinking.com/chapters/08/4/Joining_Tables_by_Columns.html)
-: **Homework**{: .label .label-homework} Homework 04 (Due 9/21)
-: **Project**{: .label .label-project} Project 1: World Population and Poverty (Due 9/30, Checkpoint 9/23)
+: **Homework**{: .label .label-homework} Homework 04 (Due 2/15)
+: **Project**{: .label .label-project} Project 1: World Population and Poverty (Due 2/24, Checkpoint 2/17)

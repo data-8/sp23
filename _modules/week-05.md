@@ -18,4 +18,4 @@ Feb 17
 : **14**{: .label} Chance
   : <!--[Slides]#) &#8226; [Demos](#) &#8226; [Video](#)-->
 : *Reading:* [9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html), [9.3](https://inferentialthinking.com/chapters/09/3/Simulation.html), [9.4](https://inferentialthinking.com/chapters/09/4/Monty_Hall_Problem.html)
-: **Homework**{: .label .label-homework} Homework 05 (Due 9/28)
+: **Homework**{: .label .label-homework} Homework 05 (Due 2/22)

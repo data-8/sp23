@@ -5,7 +5,7 @@ class: Berkeley
 
 Feb 20
 : Holiday: No Class
-: **Lab**{: .label .label-lab} Lab 05: Conditional Statements, Iteration, Tables (Due 9/30)
+: **Lab**{: .label .label-lab} Lab 05: Conditional Statements, Iteration, Tables (Due 2/24)
   : <!--[Lab 05 Worksheet](#)-->
 
 Feb 22
@@ -17,4 +17,4 @@ Feb 24
 : **16**{: .label} Models
   : <!--[Slides]#) &#8226; [Demos](#) &#8226; [Video](#)-->
 : *Reading:* [10.2](https://inferentialthinking.com/chapters/10/2/Sampling_from_a_Population.html), [10.3](https://inferentialthinking.com/chapters/10/3/Empirical_Distribution_of_a_Statistic.html), [10.4](https://inferentialthinking.com/chapters/10/4/Random_Sampling_in_Python.html)
-: **Homework**{: .label .label-homework} Homework 06 (Due 10/5)
+: **Homework**{: .label .label-homework} Homework 06 (Due 3/1)
