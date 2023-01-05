@@ -3,7 +3,7 @@ title: Week 11
 class: Berkeley
 ---
 
-Oct 31
+Mar 27
 : **29**{: .label} Correlation
   : <!--[Slides]#) &#8226; [Demos](#) &#8226; [Video](#)-->
 : *Reading:* [15](https://inferentialthinking.com/chapters/15/Prediction.html), [15.1](https://inferentialthinking.com/chapters/15/1/Correlation.html)
