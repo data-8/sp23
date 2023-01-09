@@ -43,7 +43,7 @@ UC Berkeley, Spring 2023
 const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
 
 jtd.addEvent(toggleDarkMode, 'click', function(){
-  if (jtd.getTheme() === 'dark') {
+  if (jtd.getTheme() === 'custom_dark') {
     jtd.setTheme('light');
   } else {
     jtd.setTheme('custom_dark');
