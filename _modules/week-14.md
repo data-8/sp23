@@ -16,3 +16,4 @@ Apr 21
 : **36**{: .label} Classifiers
   : <!--[Slides]#) &#8226; [Demos](#) &#8226; [Video](#)-->
 : *Reading:* [17.4](https://inferentialthinking.com/chapters/17/4/Implementing_the_Classifier.html)
+: **Homework**{: .label .label-homework} Homework 12 (Due 4/26)
