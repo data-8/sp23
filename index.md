@@ -42,7 +42,6 @@ UC Berkeley, Spring 2023
 <script src="assets/darkmode.js"></script>
 <script>
   window.addEventListener("DOMContentLoaded", (event) => {
-    console.log(localStorage.getItem("darkMode"));
     onLoad();
 });
 </script>

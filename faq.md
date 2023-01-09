@@ -37,3 +37,10 @@ description: >-
 **Q: I have some other grading questions. Who should I contact?**
 
 **A:** Please contact your lab GSI.
+
+<script src="assets/darkmode.js"></script>
+<script>
+  window.addEventListener("DOMContentLoaded", (event) => {
+    onLoad();
+});
+</script>
