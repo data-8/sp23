@@ -34,9 +34,9 @@ UC Berkeley, Spring 2023
 
 <!--DARKMODE UNDER CONSTRUCTION-->
 
-### Darkmode Test
+#### Darkmode Test
 
-<button class="js-toggle-dark-mode">Toggle Dark Mode</button>
+<button class="js-toggle-dark-mode btn">Toggle Dark Mode</button>
 
 
 <script>
