@@ -46,7 +46,7 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
   if (jtd.getTheme() === 'dark') {
     jtd.setTheme('light');
   } else {
-    jtd.setTheme('dark');
+    jtd.setTheme('custom_dark');
   }
 });
 </script>
