@@ -88,7 +88,7 @@ Your wellbeing matters, and we hope that Data 8 is _never_ a barrier to taking c
 * [Basic Needs Center](https://basicneeds.berkeley.edu/)
 * [ASUC Mental Health Resources Guide](https://asuc.org/wp-content/uploads/2018/02/Mental-Health-Resources.pdf)
 
-<script src="assets/darkmode.js"></script>
+<script src="../assets/darkmode.js"></script>
 <script>
   window.addEventListener("DOMContentLoaded", (event) => {
     onLoad();

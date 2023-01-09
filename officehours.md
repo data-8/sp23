@@ -17,7 +17,7 @@ If you need help during your lab section, please utilize the [lab queue](https:/
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=1&bgcolor=%23ffffff&ctz=America%2FLos_Angeles&mode=WEEK&src=Y18xdnBicjk0MGs2NXAxczU5Nm5xaTVtbzByZ0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%233F51B5" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
-<script src="assets/darkmode.js"></script>
+<script src="../assets/darkmode.js"></script>
 <script>
 window.addEventListener("DOMContentLoaded", (event) => {
     onLoad();

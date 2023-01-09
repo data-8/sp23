@@ -38,7 +38,7 @@ description: >-
 
 **A:** Please contact your lab GSI.
 
-<script src="assets/darkmode.js"></script>
+<script src="../assets/darkmode.js"></script>
 <script>
   window.addEventListener("DOMContentLoaded", (event) => {
     onLoad();

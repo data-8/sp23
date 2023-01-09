@@ -44,7 +44,7 @@ _All office hours are held in-person in Warren 101 unless otherwise specified_
 {% endfor %}
 </div>
 
-<script src="assets/darkmode.js"></script>
+<script src="../assets/darkmode.js"></script>
 <script>
   window.addEventListener("DOMContentLoaded", (event) => {
     onLoad();

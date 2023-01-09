@@ -102,7 +102,7 @@ These are functions in the `datascience` library that are used in the course tha
 | `minimize(function)` | Returns an array of values such that if each value in the array was passed into `function` as arguments, it would minimize the output value of `function`. ([Ch 15.4](https://www.inferentialthinking.com/chapters/15/4/Least_Squares_Regression)) | **function**: name of a function that will be minimized | **array**: An array in which each element corresponds to an argument that minimizes the output of the function. Values in the array are listed based on the order they are passed into the function; the first element in the array is also going to be the first value passed into the function. |
 
 
-<script src="assets/darkmode.js"></script>
+<script src="../assets/darkmode.js"></script>
 <script>
   window.addEventListener("DOMContentLoaded", (event) => {
     onLoad();
