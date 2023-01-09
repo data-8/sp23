@@ -1,15 +1,3 @@
-const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
-
-jtd.addEvent(toggleDarkMode, 'click', function(){
-  if (jtd.getTheme() === 'custom_dark') {
-    jtd.setTheme('light');
-    localStorage.setItem("darkMode", 0);
-  } else {
-    jtd.setTheme('custom_dark');
-    localStorage.setItem("darkMode", 1);
-  }
-});
-
 
 function onLoad() {
     var mode = localStorage.getItem("darkMode");
