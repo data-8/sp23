@@ -31,8 +31,8 @@ UC Berkeley, Spring 2023
 {{ module }}
 {% endfor %}
 
-<!--
-DARKMODE UNDER CONSTRUCTION
+
+<!--DARKMODE UNDER CONSTRUCTION-->
 
 ### Darkmode Test
 
@@ -50,4 +50,4 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
   }
 });
 </script>
--->
+
