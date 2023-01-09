@@ -10,6 +10,10 @@ jtd.addEvent(toggleDarkMode, 'click', function(){
   }
 });
 
+window.addEventListener("load", (event) => {
+    onLoad();
+  });
+
 
 function onLoad() {
     var mode = localStorage.getItem("darkMode");
