@@ -1,8 +1,7 @@
-@import "./color_schemes/dark";
-
-$link-color: $yellow-000;
 
 a {
     color: $yellow-000 !important;
-    text-decoration: underline !important;
+
 }
+
+@import "./color_schemes/dark";
