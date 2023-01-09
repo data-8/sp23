@@ -30,7 +30,7 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Office Hours:
-    - 'https://data8.org/fa22/officehours/'
+    - 'https://www.data8.org/sp23/officehours/'
   Textbook:
     - 'https://inferentialthinking.com/chapters/intro.html'
   Ed:

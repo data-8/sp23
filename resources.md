@@ -20,7 +20,7 @@ description: >-
 ## Materials
 
 ### Student Materials Folder
-We will post student materials in [this folder](https://drive.google.com/drive/folders/1eluNbA98EZ0FnD7kttlAs3YuI8b9Yt5P?usp=sharing) throughout the semester.
+We will post student materials in [this folder](https://drive.google.com/drive/folders/1PHiNPaRfsNzf4ZD2qEI0EqXXE3k7N2Nu?usp=share_link) throughout the semester.
 
 ### Guides
 * [Arrays Primer](https://drive.google.com/file/d/1SzpKe_SnFf9_mkLyhETz5-AiaBJBYJDv/view?usp=sharing)
@@ -32,7 +32,7 @@ We will post student materials in [this folder](https://drive.google.com/drive/f
 * [Hypothesis Testing](https://drive.google.com/file/d/1s9e252XRIUYxNeI8dNG4D0f8B9iwEv6x/view?usp=sharing)
 
 ### Table Resources
-* [Table Function Visualizer](http://data8.org/interactive_table_functions/)
+* [Table Function Visualizer](https://www.data8.org/interactive_table_functions/)
 
 ## Exam Resources
 
