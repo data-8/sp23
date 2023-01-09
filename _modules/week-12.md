@@ -2,20 +2,20 @@
 title: Week 12
 class: Berkeley
 ---
-Apr 10
-: **32**{: .label} Residuals
-  : <!--[Slides]#) &#8226; [Demos](#) &#8226; [Video](#)-->
-: *Reading:* [15.5](https://inferentialthinking.com/chapters/15/5/Visual_Diagnostics.html), [15.6](https://inferentialthinking.com/chapters/15/6/Numerical_Diagnostics.html)
-: **Lab**{: .label .label-lab} Lab 09: Regression (Due 4/14)
-  : <!--[Lab 09 Worksheet](#)-->
 
-Apr 12
-: **33**{: .label} Regression Inference
+Apr 3
+: **29**{: .label} Correlation
   : <!--[Slides]#) &#8226; [Demos](#) &#8226; [Video](#)-->
-: *Reading:* [16](https://inferentialthinking.com/chapters/16/Inference_for_Regression.html)
+: *Reading:* [15](https://inferentialthinking.com/chapters/15/Prediction.html), [15.1](https://inferentialthinking.com/chapters/15/1/Correlation.html)
+  : <!--[Project 2 Lab Worksheet](#)-->
 
-Apr 14
-: **34**{: .label} Privacy
+Apr 5
+: **30**{: .label} Linear Regression
   : <!--[Slides]#) &#8226; [Demos](#) &#8226; [Video](#)-->
-: **Homework**{: .label .label-homework} Homework 11 (Due 4/19)
-: **Project**{: .label .label-project} Project 3: Classifying Movies (Due 4/28)
+: *Reading:* [15.2](https://inferentialthinking.com/chapters/15/2/Regression_Line.html)
+
+Apr 7
+: **31**{: .label} Least Squares
+  : <!--[Slides]#) &#8226; [Demos](#) &#8226; [Video](#)-->
+: *Reading:* [15.3](https://inferentialthinking.com/chapters/15/3/Method_of_Least_Squares.html), [15.4](https://inferentialthinking.com/chapters/15/4/Least_Squares_Regression.html)
+: **Homework**{: .label .label-homework} Homework 10 (Due 4/12)
