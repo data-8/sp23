@@ -39,17 +39,4 @@ UC Berkeley, Spring 2023
 <button class="js-toggle-dark-mode btn">Toggle Dark Mode</button>
 
 
-<script src="darkmode.js"></script>
-<!--
-<script>
-const toggleDarkMode = document.querySelector('.js-toggle-dark-mode');
-
-jtd.addEvent(toggleDarkMode, 'click', function(){
-  if (jtd.getTheme() === 'custom_dark') {
-    jtd.setTheme('light');
-  } else {
-    jtd.setTheme('custom_dark');
-  }
-});
-</script>
--->
+<script src="assets/darkmode.js"></script>
