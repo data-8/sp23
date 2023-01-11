@@ -5,5 +5,6 @@ function onLoad() {
 
     if (mode == 1) {
         jtd.setTheme('custom_dark');
+        toggleDarkMode.innerHTML = "Return to the Light";
     }
 }
