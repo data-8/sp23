@@ -35,7 +35,7 @@ UC Berkeley, Spring 2023
 <!--DARKMODE UNDER CONSTRUCTION-->
 <br />
 
-<button class="js-toggle-dark-mode btn">Toggle Dark Mode</button>
+<button class="js-toggle-dark-mode dm-btn btn">Toggle Dark Mode</button>
 
 
 <script src="assets/darkmode.js"></script>
