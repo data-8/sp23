@@ -17,6 +17,8 @@ description: >-
 
 ---
 
+[Page Under Construction](#){: .btn .btn-yellow}
+
 ## About the Course
 
 ### Course Description
@@ -40,10 +42,10 @@ Small-group tutoring sessions will be available for students in need of addition
 ## Course Components
 
 ### Live Lecture
-Live lectures will be held on Mondays, Wednesdays, and Fridays starting at 2:10pm in Wheeler 150; students may also attend live lectures remotely (Link to be added). Recordings of these sessions will be provided, but students are highly encouraged to attend in real time. Slides and lecture examples will be provided on the course website.
+Live lectures will be held on Mondays, Wednesdays, and Fridays starting at 10:10am in Wheeler 150; students may also attend live lectures remotely (Link to be added). Recordings of these sessions will be provided, but students are highly encouraged to attend in real time. Slides and lecture examples will be provided on the course website.
 
 ### Labs
-**For Fall 2022, lab policies have changed substantially! Read this instead of asking former students how labs work.**
+**Spring 2023 lab policies are the same as Fall 2022 lab policies, but differ from lab policies from previous semesters. Read this instead of asking former students how labs work.**
 
 Weekly labs include a discussion worksheet covering recent material and a programming-based lab assignment that develops skills with computational and inferential concepts. Lab assignments will be **released on Monday night each week**.
 
