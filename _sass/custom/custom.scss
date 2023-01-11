@@ -345,6 +345,8 @@ code {
 }
 */
 
+
+
 .btn::selection {
   background-color: #183385 !important;
 }
@@ -359,4 +361,8 @@ code {
 
 .btn:focus:hover {
   color: #2869e6 !important;
+}
+
+.search-icon::selection {
+  background-color: ##2c84fa !important;
 }
