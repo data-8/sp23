@@ -4,9 +4,8 @@ class: Berkeley
 ---
 
 Apr 24
-: **37**{: .label} Updating Probabilities
+: **37**{: .label} Case Study: TBD
   : <!--[Slides]#) &#8226; [Demos](#) &#8226; [Video](#)-->
-: *Reading:* [13](https://inferentialthinking.com/chapters/13/Estimation.html), [18](https://inferentialthinking.com/chapters/18/Updating_Predictions.html)
 : **Lab**{: .label .label-lab} Lab 10: Conditional Probability (Due 4/28)
   : <!--[Lab 10 Worksheet](#)-->
 
