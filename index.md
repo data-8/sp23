@@ -47,10 +47,14 @@ UC Berkeley, Spring 2023
       jtd.setTheme('light');
       localStorage.setItem("darkMode", 0);
       toggleDarkMode.innerHTML = "Toggle Dark Mode";
+      toggleDarkMode.classList.add('dm-btn');
+        toggleDarkMode.classList.remove('dm-dark-btn');
     } else {
       jtd.setTheme('custom_dark');
       localStorage.setItem("darkMode", 1);
       toggleDarkMode.innerHTML = "Return to the Light";
+      toggleDarkMode.classList.add('dm-dark-btn');
+      toggleDarkMode.classList.remove('dm-btn');
     }
   });
 

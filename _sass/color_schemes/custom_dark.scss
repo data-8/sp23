@@ -25,16 +25,16 @@ a {
     background-color: #777777 !important;
 }
 
-.dm-btn::selection {
+@import "./color_schemes/dark";
+
+.dm-dark-btn::selection {
     background-color: #ffeb82 !important;
 }
 
-.dm-btn {
+.dm-dark-btn {
     color: #ffeb82 !important;
 }
 
-.dm-btn:hover {
+.dm-dark-btn:hover {
     color: #e7af06 !important;
 }
-
-@import "./color_schemes/dark";
