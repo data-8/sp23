@@ -28,7 +28,7 @@
     <p class="staffer-meta">Office Hours: {{ page.office-hours }}</p>
     {% endif %}
     {% if page.bio %}
-    <p class="staffer-bio">{{ page.bio | markdownify | strip_html }}</p>
+    <p class="staffer-bio">{{ page.bio | markdownify }}</p>
     {% endif %}
     {{ content }}
   </div>
