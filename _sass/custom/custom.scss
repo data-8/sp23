@@ -345,8 +345,12 @@ code {
 }
 */
 
-::selection {
+.btn::selection {
   background-color: #183385 !important;
+}
+
+.btn {
+  color: #264caf !important;
 }
 
 .btn:hover {
