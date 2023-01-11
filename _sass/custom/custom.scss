@@ -346,5 +346,13 @@ code {
 */
 
 ::selection {
-  background-color: #183385;
+  background-color: #183385 !important;
+}
+
+.btn:hover {
+  color: #2869e6 !important;
+}
+
+.btn:focus:hover {
+  color: #2869e6 !important;
 }
