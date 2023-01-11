@@ -25,6 +25,14 @@ a {
     background-color: #777777 !important;
 }
 
+.btn {
+    color: white !important;
+}
+
+ol a {
+    color: #ffeb82 !important;
+}
+
 @import "./color_schemes/dark";
 
 .dm-dark-btn::selection {
