@@ -5,6 +5,6 @@ role: Lead GSI
 email: ciara.acosta@berkeley.edu
 office-hours: TBA
 team: Scholars
-bio: Hi! I'm a fourth year DS + Econ major who took Data 8 as a Scholar and is beyond excited for you to join!! 🥰 Outside of the classroom, you can find me at Berkeley Social Club, Grégoire, or the lawn in front of California hall.
+bio: Beyond excited to work with data scholars again! I hope you love it as much as I've loved every semester with scholars 💌
 photo: staff/ciara.jpg
 ---

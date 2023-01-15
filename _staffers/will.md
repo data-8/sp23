@@ -7,5 +7,5 @@ email: willfurtado@berkeley.edu
 photo: /staff/will.jpeg
 office-hours: TBA
 team: Course Director
-bio: Applied Math and CS major from Massachusetts who took his talents to the Bay to join Data 8 course staff. Big Spotify guy, bigger Wii Sports guy.
+bio: Senior from Massachusetts studying Applied Math and CS. Skill level 2132 on Wii Sports Tennis.
 ---

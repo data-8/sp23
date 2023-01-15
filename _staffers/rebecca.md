@@ -5,6 +5,6 @@ role: Lead GSI
 email: rhu01@berkeley.edu
 office-hours: TBA
 team: Logistics
-bio: Data science and spreadsheets are my passion.
-photo: staff/rebecca.png
+bio: Sad senior with a candy crush and cranberry juice addiction.
+photo: staff/rebecca.jpeg
 ---

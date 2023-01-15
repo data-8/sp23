@@ -5,6 +5,6 @@ role: Lead GSI
 email: sonyak@berkeley.edu
 office-hours: TBA
 team: Tutors
-bio: Loves&#58; long walks on the beach, good bike lanes. Hates&#58; cold weather, the intersection of Shattuck and University.
+bio: Hi! I'm a senior studying Data Science with an emphasis in Geospatial Science and a minor in being a silly goose :) 
 photo: staff/sonya.jpg
 ---

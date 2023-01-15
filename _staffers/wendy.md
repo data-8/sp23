@@ -6,5 +6,5 @@ email: wendykimm@berkeley.edu
 photo: /staff/wendy.png
 office-hours: TBA
 team: Grading
-bio: Hi everyone! I'm a fourth year studying Data Science who is looking forward to one last year with Data 8. :')
+bio: senior, home barista, mbb who is happy to be here :)
 ---

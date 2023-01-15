@@ -5,6 +5,6 @@ role: Lead GSI
 email: vpadma@berkeley.edu
 office-hours: TBA
 team: DSP
-bio: Hi! I'm Padma and I study Astrophysics and Data Science. Looking forward to a great semester with you all!
+bio: Hello! I'm a fourth year studying Astrophysics and Data Science. I love reading and coffee. Data 8 is an amazing course and I hope you enjoy it as much as I did! Feel free to reach out to me about anything at all.
 photo: staff/padma.jpg
 ---

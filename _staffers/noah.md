@@ -5,6 +5,6 @@ role: Lead GSI
 email: noah.s.tran@berkeley.edu
 office-hours: TBA
 team: Pedagogy
-bio: Hi everyone, I'm Noah! I'm a big fan of figure skating, tennis, and Data 8.
+bio: Hi everyone, I’m Noah! I’m a big fan of figure skating, tennis, and Data 8.
 photo: staff/noah.jpeg
 ---
