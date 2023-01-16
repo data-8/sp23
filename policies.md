@@ -53,8 +53,7 @@ This semester, we are offering **two lab formats**: an attendance-based 30-stude
 
 Regular lab meetings are two hours long. The first hour focuses on the discussion worksheet and group problem solving. The second hour is dedicated to completing the programming-based lab assignment. To receive credit for lab, you **must attend** both parts. If you complete the lab assignment before the lab period is over and get checked off by the course staff, you may leave early and still receive credit. If you stay for the complete lab period, make significant progress on the lab assignment, and get checked off by the course staff, you will receive full credit for the lab even if you haven’t completed the whole lab assignment.
 
-You will have two lab drops to use throughout the semester. In order to use a lab drop, you must message your GSI **one hour prior** to the start of your lab informing them that you will not be in attendance. For special circumstances, please talk to your GSI.
-<!-- Your two lowest lab scores will be dropped, which means that missing up to two lab sections will not affect your grade. If you need to miss more than two, talk to your GSI. -->
+Your two lowest lab scores will be dropped, which means that missing up to two lab sections will not affect your grade. If you need to miss more than two, talk to your GSI.
 
 Please submit your lab to Gradescope, but the autograder results will not affect your score. You will receive **full credit** for the lab assignment if you are checked off. Your GSI will only check you off if you have either finished the lab notebook or worked until the end of the lab and made substantial progress. Discussion worksheets do not need to be submitted.
 
