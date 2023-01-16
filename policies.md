@@ -110,6 +110,8 @@ Grades for Homeworks, Projects, and Labs will be posted on Gradescope about 1 we
 
 For the midterm exam, there will be a regrade request submission window. Please review the solutions and common mistakes before submitting a regrade request. Requests where a rubric item was incorrectly selected or not selected will be reviewed, but any regrade requests that ask to change the rubric or for partial credit will be ignored.
 
+## Assignments
+
 ### Submitting Assignments
 All assignments (homework, labs, and projects) will be submitted on Gradescope. Please refer to [this tutorial](https://drive.google.com/file/d/1SGK6B7b1VGChPvCNKyIcdt02g7l-j8Dd/view?usp=sharing) for submitting assignments.
 
@@ -120,12 +122,27 @@ Your two lowest homework scores and two lowest lab scores will be dropped in the
 
 Projects will be accepted up to 2 days (48 hours) late. Projects submitted fewer than 24 hours after the deadline will receive 2/3 credit, and projects submitted between 24 and 48 hours after the deadline will receive 1/3 credit. Projects submitted 48 hours or more after the deadline will receive no credit.
 
+### Assignment Extensions
+We understand that life happens and want to provide you with the support you need. If you need to request an extension, please fill out [this form](https://forms.gle/czM3MD7tch3UDP9Z7). Submissions to this form will be visible only to the course instructors, the DSP Lead and Grading Leads. 
+
+### Accommodations
+We will provide appropriate accommodations to all students enrolled in Berkeley's [Disabled Students Program (DSP)](https://dsp.berkeley.edu/). To ensure that you receive the appropriate accommodations, have your DSP specialist submit a letter confirming your status and accommodations. We also aim to provide fair and appropriate accommodations to any students who, because of extenuating circumstances, may need them.
+
+If you're not enrolled in DSP, or are in the process of being onboarded by DSP, you may still be eligible for accommodations. 
+You may also be eligible for accommodations if serious extenuating circumstances should come up during the semester. Please reach out to data8@berkeley.edu if this is the case.
+
+### Privacy
+All DSP and accommodations-related materials for this course are kept in a repository separate from the rest of the course materials that is visible only to the instructors and selected Lead GSIs.
+
+For any DSP and accommodations-related communications, please reach out to data8@berkeley.edu and the DSP Lead will get back to you. This inbox will be visible to future members of course staff, so if you ever have a communication that you wish to remain private, let us know and we can delete the email exchange once the conversation is resolved.
+
+
 ### Learning Cooperatively
 We encourage you to discuss course content with your friends and classmates as you are working on your assignments. No matter your academic background, you will learn more if you work alongside others than if you work alone. Ask questions, answer questions, and share ideas liberally.
 
 If some emergency takes you away from the course for an extended period, or if you decide to drop the course for any reason, please don’t just disappear silently! You should inform your lab TA and your project partner (if you have one) immediately, so that nobody is expecting you to do something you can’t finish.
 
-### Academic Honesty
+## Academic Honesty
 You must write your answers in your own words, and you must not share your completed work. The exception to this rule is that you can share everything related to a project with your project partner (if you have one) and turn in one project between the two of you, and if you are attending a lab session and have a lab partner you can share everything related to that lab with your lab partner.
 
 Make a serious attempt at every assignment yourself. If you get stuck, read the textbook and go over the lectures and lab discussion. After that, go ahead and discuss any remaining doubts with others, especially the course staff. That way you will get the most out of the discussion. It is important to keep in mind the limits to collaboration. As noted above, you and your friends are encouraged to discuss course content and approaches to problem solving. But you are not allowed to share your code or answers with other students. Doing so is considered academic misconduct, and it doesn’t help them either. It sets them up for trouble on upcoming assignments and on the exams.
