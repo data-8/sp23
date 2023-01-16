@@ -1,5 +1,5 @@
 ---
-name: Tiffany Liu
+name: Atticus Ginsborg
 pronouns: he/him
 role: GSI
 email: atticus.ginsborg@berkeley.edu
