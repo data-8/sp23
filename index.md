@@ -37,6 +37,8 @@ UC Berkeley, Spring 2023
 
 <button class="js-toggle-dark-mode dm-btn btn">Toggle Dark Mode</button>
 
+<p class="dm-text">The Data 8 Website Dark Mode&trade; is in beta. You can provide feedback about the website <a href="https://forms.gle/64xx2B1Y7K32bNhR9">here</a></p>
+
 
 <script src="assets/darkmode.js"></script>
 <script>
