@@ -126,10 +126,9 @@ Projects will be accepted up to 2 days (48 hours) late. Projects submitted fewer
 We understand that life happens and want to provide you with the support you need. If you need to request an extension, please fill out [this form](https://forms.gle/czM3MD7tch3UDP9Z7). Submissions to this form will be visible only to the course instructors, the DSP Lead and Grading Leads. 
 
 ### Accommodations
-We will provide appropriate accommodations to all students enrolled in Berkeley's [Disabled Students Program (DSP)](https://dsp.berkeley.edu/). To ensure that you receive the appropriate accommodations, have your DSP specialist submit a letter confirming your status and accommodations. We also aim to provide fair and appropriate accommodations to any students who, because of extenuating circumstances, may need them.
+We will provide appropriate accommodations to all students enrolled in Berkeley's [Disabled Students Program (DSP)](https://dsp.berkeley.edu/). To ensure that you receive the appropriate accommodations, have your DSP specialist submit a letter confirming your status and accommodations.
 
-If you're not enrolled in DSP, or are in the process of being onboarded by DSP, you may still be eligible for accommodations. 
-You may also be eligible for accommodations if serious extenuating circumstances should come up during the semester. Please reach out to data8@berkeley.edu if this is the case.
+If you're not enrolled in DSP, or are in the process of being onboarded by DSP, you may still be eligible for accommodations. We also aim to provide fair and appropriate accommodations to any students who, because of extenuating circumstances, may need them. Please reach out to data8@berkeley.edu if this is the case.
 
 ### Privacy
 All DSP and accommodations-related materials for this course are kept in a repository separate from the rest of the course materials that is visible only to the instructors and selected Lead GSIs.
