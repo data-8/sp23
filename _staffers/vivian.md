@@ -1,6 +1,6 @@
 ---
 name: Vivian Kuang
-pronouns: he/him
+pronouns: she/her
 role: GSI
 email: viviankuang@berkeley.edu
 office-hours: TBA
