@@ -15,9 +15,7 @@ seo:
 UC Berkeley, Spring 2023
 {: .mb-2 .fs-6 .text-grey-dk-000 }
 
-[Site Under Construction](#){: .btn .btn-yellow}
-
-<!--[Lecture Zoom Link](https://berkeley.zoom.us/j/96844490266){: .btn .btn-blue}-->
+[Lecture Zoom Link](https://berkeley.zoom.us/j/99702645689){: .btn .btn-blue}
 
 ## Announcements
 
