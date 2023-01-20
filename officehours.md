@@ -15,7 +15,7 @@ If you need help during your lab section, please utilize the [lab queue](https:/
 
 ## Office Hours Calendar
 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_442a2286e274ffdbda5549db4aa190dcfc0cdd6ebf8eaf559ac61ddf2de5ad76%40group.calendar.google.com&ctz=America%2FNew_York" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://calendar.google.com/calendar/u/0/embed?src=c_442a2286e274ffdbda5549db4aa190dcfc0cdd6ebf8eaf559ac61ddf2de5ad76@group.calendar.google.com" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 <script src="../assets/darkmode.js"></script>
 <script>
