@@ -13,6 +13,6 @@ Jan 18
 
 Jan 20
 : **2**{: .label} Cause and Effect
-  : <!--[Slides](#) &#8226; [Video](#)-->
+  : [Slides](https://docs.google.com/presentation/d/1BzpNbGideL_wNSIO4Y1F4cBoW5mBeEiNvgcw0C0V7nM/edit?usp=sharing) <!--&#8226; [Video](#)-->
 : *Reading:* [2](https://inferentialthinking.com/chapters/02/causality-and-experiments.html)
 : **Homework**{: .label .label-homework} [Homework 01](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Fmaterials%2Fsp23%2Fhw%2Fhw01%2Fhw01.ipynb&branch=main) (Due 1/25)
