@@ -92,7 +92,7 @@ The midterm exam will be held on **Friday, March 10 from 7-9pm PT**. Please note
 
 The final exam is required for a passing grade, and will be held on **Tuesday, May 9 from 3-6pm PT**.
 
-There will be one alternate exam for the midterm and the final exam, for those with exam conflicts. The alternate midterm exam will take place **online 8-10AM PT on Saturday, March 11** and the alternate final exam will take place **online 7-10PM PT on Tuesday, May 9**. If you cannot make either the regular or alternative times, please contact your lab TA immediately. The regular midterm and final exams will be in-person. 
+There will be one alternate exam for the midterm and the final exam, for those with exam conflicts. The alternate midterm exam will take place **online 8-10AM PT on Saturday, March 11** and the alternate final exam will take place **online 7-10PM PT on Tuesday, May 9**. If you cannot make either the regular or alternative times, please contact data8@berkeley.edu immediately. The regular midterm and final exams will be in-person. 
 
 ## Grades
 Grades will be assigned using the following weighted components. Every assignment is weighted equally in its category. For example, there are 3 projects, so each project is worth (25 / 3)% = 8.3% of your grade.
