@@ -13,7 +13,7 @@ Jan 23
 Jan 25
 : **4**{: .label} Data Types
   : <!--[Slides](#) &#8226; [Demos](#) &#8226; [Video](#)-->
-: *Reading:* [4](https://inferentialthinking.com/chapters/04/Data_Types.html) [5](https://inferentialthinking.com/chapters/05/Sequences.html)
+: *Reading:* [4](https://inferentialthinking.com/chapters/04/Data_Types.html), [5](https://inferentialthinking.com/chapters/05/Sequences.html)
 
 Jan 27
 : **5**{: .label} Building Tables
