@@ -17,7 +17,7 @@ UC Berkeley, Spring 2023
 
 [Lecture Zoom Link](https://berkeley.zoom.us/j/99702645689){: .btn .btn-blue}
 
-## Announcements
+<!--## Announcements-->
 
 <!--
 {% assign announcements = site.announcements | reverse %}
