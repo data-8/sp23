@@ -12,7 +12,7 @@ Jan 23
 
 Jan 25
 : **4**{: .label} Data Types
-  : [Slides](https://docs.google.com/presentation/d/1S8bz_O13kTw8nHXGAI0S7VJ6-BBXMYT5W6behtgkIxM/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec04.ipynb&branch=main) <!--&#8226; [Video](#)-->
+  : [Slides](https://docs.google.com/presentation/d/1S8bz_O13kTw8nHXGAI0S7VJ6-BBXMYT5W6behtgkIxM/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec04.ipynb&branch=main) &#8226; [Video](https://youtu.be/Mk5sFLu7G4o)
 : *Reading:* [4](https://inferentialthinking.com/chapters/04/Data_Types.html), [5](https://inferentialthinking.com/chapters/05/Sequences.html)
 
 Jan 27
