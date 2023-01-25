@@ -19,10 +19,12 @@ UC Berkeley, Spring 2023
 
 ## Announcements
 
+<!--
 {% assign announcements = site.announcements | reverse %}
 {% for announcement in announcements %}
 {{ announcement }}
 {% endfor %}
+-->
 
 {% assign mods = site.modules | where: 'class', 'Berkeley' %}
 {% for module in mods %}
