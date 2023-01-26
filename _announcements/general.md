@@ -1,11 +1,9 @@
-<!--
 ---
-title: Week 15 Announcements
-week: 15
-date: 2022-11-28
+title: Week 2 Announcements
+week: 2
+date: 2023-1-23
 ---
 
-* **Project 3** has been released and is due on Friday, December 2nd. The checkpoint is optional.
+* Tutoring signups have been released! See Ed #234 for details.
 
 {: .fs-5 }
--->
