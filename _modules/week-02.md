@@ -19,4 +19,4 @@ Jan 27
 : **5**{: .label} Building Tables
   : <!--[Slides](#) &#8226; [Demos](#) &#8226; [Video](#)-->
 : *Reading:* [6.1](https://inferentialthinking.com/chapters/06/1/Sorting_Rows.html), [6.2](https://inferentialthinking.com/chapters/06/2/Selecting_Rows.html)
-: **Homework**{: .label .label-homework} Homework 02 (Due 2/1)
+: **Homework**{: .label .label-homework} [Homework 02](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Fmaterials%2Fsp23%2Fhw%2Fhw02%2Fhw02.ipynb&branch=main) (Due 2/1)
