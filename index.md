@@ -17,14 +17,14 @@ UC Berkeley, Spring 2023
 
 [Lecture Zoom Link](https://berkeley.zoom.us/j/99702645689){: .btn .btn-blue}
 
-<!--## Announcements-->
+## Announcements
 
-<!--
+
 {% assign announcements = site.announcements | reverse %}
 {% for announcement in announcements %}
 {{ announcement }}
 {% endfor %}
--->
+
 
 {% assign mods = site.modules | where: 'class', 'Berkeley' %}
 {% for module in mods %}
