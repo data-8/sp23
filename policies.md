@@ -55,7 +55,7 @@ Regular lab meetings are two hours long. The first hour focuses on the discussio
 
 Your two lowest lab scores will be dropped, which means that missing up to two lab sections will not affect your grade. If you need to miss more than two, talk to your GSI.
 
-Please submit your lab to Gradescope, but the autograder results will not affect your score. You will receive **full credit** for the lab assignment if you are checked off. Your GSI will only check you off if you have either finished the lab notebook or worked until the end of the lab and made substantial progress. Discussion worksheets do not need to be submitted.
+You **do not** need to submit your lab notebook to Gradescope. You will receive **full credit** for the lab assignment if you are checked off. Your GSI will only check you off if you have either finished the lab notebook or worked until the end of the lab and made substantial progress. Discussion worksheets do not need to be submitted.
 
 Regular lab sessions will **not** be webcast and are not recorded.
 
