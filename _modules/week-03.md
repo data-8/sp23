@@ -12,7 +12,7 @@ Jan 30
 
 Feb 1
 : **7**{: .label} Charts
-  : <!--[Slides](#) &#8226; [Demos](#) &#8226; [Video](#)-->
+  : [Slides](https://docs.google.com/presentation/d/1JkcP9R8KhFWKtSvkNzycso0VAoY92arVcV9qyRraodk/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec07.ipynb&branch=main) <!--&#8226; [Video]()-->
 : *Reading:* [7](https://inferentialthinking.com/chapters/07/Visualization.html), [7.1](https://inferentialthinking.com/chapters/07/1/Visualizing_Categorical_Distributions.html)
 
 Feb 3
