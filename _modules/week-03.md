@@ -19,4 +19,4 @@ Feb 3
 : **8**{: .label} Histograms
   : <!--[Slides](#) &#8226; [Demos](#) &#8226; [Video](#)-->
 : *Reading:* [7.2](https://inferentialthinking.com/chapters/07/2/Visualizing_Numerical_Distributions.html), [7.3](https://inferentialthinking.com/chapters/07/3/Overlaid_Graphs.html)
-: **Homework**{: .label .label-homework} Homework 03 (Due 2/8)
+: **Homework**{: .label .label-homework} [Homework 03](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Fmaterials%2Fsp23%2Fhw%2Fhw03%2Fhw03.ipynb&branch=main) (Due 2/8)
