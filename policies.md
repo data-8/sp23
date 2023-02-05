@@ -116,7 +116,7 @@ For the midterm exam, there will be a regrade request submission window. Please 
 All assignments (homework, labs, and projects) will be submitted on Gradescope. Please refer to [this tutorial](https://drive.google.com/file/d/1SGK6B7b1VGChPvCNKyIcdt02g7l-j8Dd/view?usp=sharing) for submitting assignments.
 
 ### Late Submission
-**The deadline for all assignments in this course is 11 PM PST**. Assignments submitted **less than an hour** after the deadline will not be marked as late. **Homework and lab submissions after this time <span style="text-decoration: underline">will not be accepted</span>**. The only exceptions are DSP extensions.
+**The deadline for all assignments in this course is 11 PM PST**. Assignments submitted **less than an hour** after the deadline will not be marked as late. **Homework and lab submissions after this time <span style="text-decoration: underline">will not be accepted</span>**.  Instructions on how to request an assignment extension are on the [accommodations page](../accommodations/).
 
 Your two lowest homework scores and two lowest lab scores will be dropped in the calculation of your overall grade. If you have an ongoing situation that prevents you from completing course content, please contact your lab TA.
 
@@ -124,17 +124,6 @@ Projects will be accepted up to 2 days (48 hours) late. Projects submitted fewer
 
 ### Assignment Extensions
 We understand that life happens and want to provide you with the support you need. If you need to request an extension, please fill out [this form](https://forms.gle/czM3MD7tch3UDP9Z7). Submissions to this form will be visible only to the course instructors, the DSP Lead and Grading Leads. 
-
-### Accommodations
-We will provide appropriate accommodations to all students enrolled in Berkeley's [Disabled Students Program (DSP)](https://dsp.berkeley.edu/). To ensure that you receive the appropriate accommodations, have your DSP specialist submit a letter confirming your status and accommodations.
-
-If you're not enrolled in DSP, or are in the process of being onboarded by DSP, you may still be eligible for accommodations. We also aim to provide fair and appropriate accommodations to any students who, because of extenuating circumstances, may need them. Please reach out to data8@berkeley.edu if this is the case.
-
-### Privacy
-All DSP and accommodations-related materials for this course are kept in a repository separate from the rest of the course materials that is visible only to the instructors and selected Lead GSIs.
-
-For any DSP and accommodations-related communications, please reach out to data8@berkeley.edu and the DSP Lead will get back to you. This inbox will be visible to future members of course staff, so if you ever have a communication that you wish to remain private, let us know and we can delete the email exchange once the conversation is resolved.
-
 
 ### Learning Cooperatively
 We encourage you to discuss course content with your friends and classmates as you are working on your assignments. No matter your academic background, you will learn more if you work alongside others than if you work alone. Ask questions, answer questions, and share ideas liberally.
