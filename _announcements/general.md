@@ -1,7 +1,7 @@
 ---
-title: Week 3 Announcements
-week: 3
-date: 2023-1-30
+title: Week 4 Announcements
+week: 4
+date: 2023-2-6
 ---
 
 * Project 1 will be released this Friday. 
