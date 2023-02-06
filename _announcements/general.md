@@ -1,12 +1,14 @@
 ---
-title: Week 3 Announcements
-week: 3
-date: 2023-1-30
+title: Week 4 Announcements
+week: 4
+date: 2023-2-6
 ---
 
-* Tutoring starts this week! See Ed [#234](https://edstem.org/us/courses/34576/discussion/2452887).
-* Homework 2 is due Wednesday, 2/1
+* Project 1 will be released this Friday. 
+    * Checkpoint due on 2/17, entire project due on 2/17.
+    * TAs will send out partner matching forms for each discussion section.
 * Homework 3 is due Wednesday, 2/8
-* Lab 3 is due Friday, 2/3 
+* Homework 4 is due Wednesday, 2/15
+* Lab 4 is due Friday, 2/10 
 
 {: .fs-5 }
