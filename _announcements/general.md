@@ -1,14 +1,14 @@
 ---
-title: Week 4 Announcements
-week: 4
-date: 2023-2-6
+title: Week 5 Announcements
+week: 5
+date: 2023-2-13
 ---
 
-* Project 1 will be released this Friday. 
-    * Checkpoint due on 2/17, entire project due on 2/24.
-    * TAs will send out partner matching forms for each discussion section.
-* Homework 3 is due Wednesday, 2/8
+* Midterm accomodations form due on 2/25 (See Ed).
+* Project 1 checkpoint due this Friday, 2/17.
+    * Entire project due next Friday, 2/24.
+    * Bonus points for submitting on Thursday, 2/23.
 * Homework 4 is due Wednesday, 2/15
-* Lab 4 is due Friday, 2/10 
+* There is no Lab 5 notebook this week.
 
 {: .fs-5 }
