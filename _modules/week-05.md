@@ -11,7 +11,7 @@ Feb 13
 
 Feb 15
 : **13**{: .label} Conditionals and Iteration
-  : [Slides](https://docs.google.com/presentation/d/1jrWnW3SyNzbvU5iPsUxDoABHH1TJlw-3HElWEdQabtc/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec13.ipynb&branch=main) &#8226; [Blank Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec13_empty.ipynb&branch=main) <!-- &#8226; [Video](#)-->
+  : [Slides](https://docs.google.com/presentation/d/1jrWnW3SyNzbvU5iPsUxDoABHH1TJlw-3HElWEdQabtc/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec13.ipynb&branch=main) &#8226; [Blank Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec13_empty.ipynb&branch=main) &#8226; [Video](https://youtu.be/Xmks8ypAIcY)
 : *Reading:* [9](https://inferentialthinking.com/chapters/09/Randomness.html), [9.1](https://inferentialthinking.com/chapters/09/1/Conditional_Statements.html), [9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html)
 
 Feb 17
