@@ -18,4 +18,4 @@ Feb 17
 : **14**{: .label} Chance
   : [Slides](https://docs.google.com/presentation/d/1Aciu4AW_LWCfaZnqeQOy2phtxXOhRa-XnIhIIY-2JK8/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec14.ipynb&branch=main) <!--&#8226; [Video](#)-->
 : *Reading:* [9.2](https://inferentialthinking.com/chapters/09/2/Iteration.html), [9.3](https://inferentialthinking.com/chapters/09/3/Simulation.html), [9.4](https://inferentialthinking.com/chapters/09/4/Monty_Hall_Problem.html)
-: **Homework**{: .label .label-homework} Homework 05 (Due 2/22)
+: **Homework**{: .label .label-homework} [Homework 05](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2F%2Fmaterials%2Fsp23%2Fhw%2Fhw05%2Fhw05.ipynb&branch=main) (Due 2/22)
