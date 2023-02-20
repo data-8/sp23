@@ -5,8 +5,8 @@ class: Berkeley
 
 Feb 20
 : Holiday: No Class
-: **Lab**{: .label .label-lab} Lab 05: Conditional Statements, Iteration, Tables (Due 2/24)
-  : <!--[Lab 05 Worksheet](#)-->
+: **Lab**{: .label .label-lab} [Lab 05: Conditional Statements, Iteration, Tables](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Fmaterials%2Fsp23%2Flab%2Flab05%2Flab05.ipynb&branch=main) (Due 2/24)
+  : [Lab 05 Worksheet](https://drive.google.com/file/d/1MsUKZUHHidoLc41NNBXQzGsP8fexp8Vk/view?usp=sharing)
 
 Feb 22
 : **15**{: .label} Sampling
