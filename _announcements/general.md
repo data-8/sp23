@@ -1,14 +1,14 @@
 ---
-title: Week 5 Announcements
+title: Week 6 Announcements
 week: 5
-date: 2023-2-13
+date: 2023-2-20
 ---
 
-* Midterm accomodations form due on 2/25 (See [Ed #707](https://edstem.org/us/courses/34576/discussion/2581602)).
-* Project 1 checkpoint due this Friday, 2/17.
-    * Entire project due next Friday, 2/24.
+* Midterm accomodations form due this Saturday, 2/25 (See [Ed #707](https://edstem.org/us/courses/34576/discussion/2581602)).
+* Project 1 due this Friday, 2/24.
     * Bonus points for submitting on Thursday, 2/23.
-* Homework 4 is due Wednesday, 2/15
-* There is no Lab 5 notebook this week.
+* Homework 5 is due this Wednesday, 2/22
+* Homework 6 is due next Wednesday, 3/1
+* Lab 5 is due this Friday, 2/24
 
 {: .fs-5 }
