@@ -1,6 +1,6 @@
 ---
 title: Week 6 Announcements
-week: 5
+week: 6
 date: 2023-2-20
 ---
 
