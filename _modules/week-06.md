@@ -15,6 +15,6 @@ Feb 22
 
 Feb 24
 : **16**{: .label} Models
-  : [Slides](https://docs.google.com/presentation/d/1wPr4YwNU2hSAqT_4CGDqgODfhUL4TWfSKYdi22OrzAA/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec16.ipynb&branch=main) <!--&#8226; [Video](#)-->
+  : [Slides](https://docs.google.com/presentation/d/1wPr4YwNU2hSAqT_4CGDqgODfhUL4TWfSKYdi22OrzAA/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec16.ipynb&branch=main) &#8226; [Video](https://youtu.be/HW45U90GR9o)
 : *Reading:* [10.2](https://inferentialthinking.com/chapters/10/2/Sampling_from_a_Population.html), [10.3](https://inferentialthinking.com/chapters/10/3/Empirical_Distribution_of_a_Statistic.html), [10.4](https://inferentialthinking.com/chapters/10/4/Random_Sampling_in_Python.html)
 : **Homework**{: .label .label-homework} [Homework 06](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2F%2Fmaterials%2Fsp23%2Fhw%2Fhw06%2Fhw06.ipynb&branch=main) (Due 3/1)
