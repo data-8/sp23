@@ -1,14 +1,13 @@
 ---
-title: Week 6 Announcements
-week: 6
-date: 2023-2-20
+title: Week 7 Announcements
+week: 7
+date: 2023-2-27
 ---
 
-* Midterm accomodations form due this Saturday, 2/25 (See [Ed #707](https://edstem.org/us/courses/34576/discussion/2581602)).
-* Project 1 due this Friday, 2/24.
-    * Bonus points for submitting on Thursday, 2/23.
-* Homework 5 is due this Wednesday, 2/22
-* Homework 6 is due next Wednesday, 3/1
-* Lab 5 is due this Friday, 2/24
+* Midterm is next Friday, 3/10, from 7-9pm
+    * See Ed [#1177](https://edstem.org/us/courses/34576/discussion/2680878) for details and preparation tips
+* Homework 6 is due Wednesday, 3/1
+* Homework 7 is due next Wednesday, 3/8
+* Lab 6 is due Friday, 3/3
 
 {: .fs-5 }
