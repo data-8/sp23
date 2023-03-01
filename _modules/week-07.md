@@ -12,7 +12,7 @@ Feb 27
 
 Mar 1
 : **18**{: .label} Decisions and Uncertainty
-  : [Slides](https://docs.google.com/presentation/d/1k1Qc2_sPXeweSOsC7C5OSTXGKHeVHCYjyVdUzxb8l80/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec18.ipynb&branch=main) <!--&#8226; [Video](#)-->
+  : [Slides](https://docs.google.com/presentation/d/1k1Qc2_sPXeweSOsC7C5OSTXGKHeVHCYjyVdUzxb8l80/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec18.ipynb&branch=main) &#8226; [Video](https://youtu.be/nwAz5hVhn3g)
 : *Reading:* [11.3](https://inferentialthinking.com/chapters/11/3/Decisions_and_Uncertainty.html), [11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html)
 
 Mar 3
