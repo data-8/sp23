@@ -17,6 +17,6 @@ Mar 1
 
 Mar 3
 : **19**{: .label} A/B Testing
-  : [Slides](https://docs.google.com/presentation/d/12AOQ6u5OVijg_9VGOfyPEhkJTqjKuZDbPMfu-q-P7L0/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec19.ipynb&branch=main) <!--&#8226; [Video](#)-->
+  : [Slides](https://docs.google.com/presentation/d/12AOQ6u5OVijg_9VGOfyPEhkJTqjKuZDbPMfu-q-P7L0/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec19.ipynb&branch=main) &#8226; [Video](https://youtu.be/qDcMWGABSsU)
 : *Reading:* [11.4](https://inferentialthinking.com/chapters/11/4/Error_Probabilities.html), [12.1](https://inferentialthinking.com/chapters/12/1/AB_Testing.html)
 : **Homework**{: .label .label-homework} [Homework 07](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2F%2Fmaterials%2Fsp23%2Fhw%2Fhw07%2Fhw07.ipynb&branch=main) (Due 3/8)
