@@ -11,7 +11,7 @@ Mar 6
 
 Mar 8
 : **21**{: .label} Examples
-  : [Slides](https://docs.google.com/presentation/d/1QUwanUAwcssus8gXZkmVBOvcqoGahXWWm3BmVrohj_0/edit?usp=sharing)) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec21.ipynb&branch=main) &#8226; &#8226; [Demo (HTML Only)](assets/demo_html/lec21.html) <!-- &#8226; [Video](#)-->
+  : [Slides](https://docs.google.com/presentation/d/1QUwanUAwcssus8gXZkmVBOvcqoGahXWWm3BmVrohj_0/edit?usp=sharing) &#8226; [Demo](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec21.ipynb&branch=main) &#8226; &#8226; [Demo (HTML Only)](assets/demo_html/lec21.html) <!-- &#8226; [Video](#)-->
 : *Reading:* [12.3](https://inferentialthinking.com/chapters/12/3/Deflategate.html)
 
 Mar 10
