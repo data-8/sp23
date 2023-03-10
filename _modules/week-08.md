@@ -16,5 +16,5 @@ Mar 8
 
 Mar 10
 : **22**{: .label} Midterm Review
-  : [Slides](https://docs.google.com/presentation/d/1yxgcFzSXBiIQkZwLzMBD6OYzzhu7SQ0HlL2CIitRf9I/edit?usp=sharing) <!--&#8226; [Demos](#) &#8226; [Video](#)-->
+  : [Slides](https://docs.google.com/presentation/d/1yxgcFzSXBiIQkZwLzMBD6OYzzhu7SQ0HlL2CIitRf9I/edit?usp=sharing) &#8226; [Video](https://youtu.be/B9ieo8iGHvQ)
 : **Exam**{: .label .label-exam} Midterm (7 - 9 PM)
