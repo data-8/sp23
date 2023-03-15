@@ -106,6 +106,17 @@ Grades will be assigned using the following weighted components. Every assignmen
 
 In past semesters of Data 8, more than 40% of the students received grades in the A+/A/A- range and more than 35% received grades in the B+/B/B- range.
 
+### Grade Bins
+
+This semester, we will use **grade bins** to determine the **lowest possible letter grade** based on final composite scores (where each grade component is weighted according to above table). While we will not raise these bins, **we may lower them**. The table below contains the grade bins for this semester. For example, final composite scores between 80% (inclusive) and 90% (exclusive) will receive grades of ***at least*** B+/B/B-. 
+
+| **Composite Score (%) Range** | **Grade Range** |
+| [90, 100] | A |
+| [80, 90) | B |
+| [65, 80) | C |
+
+### Regrades
+
 Grades for Homeworks, Projects, and Labs will be posted on Gradescope about 1 week after the assignment’s due date. Solutions to the assignment and common mistakes will also be posted on Ed. It is up to you to check the solutions and request a regrade request before the regrade deadline (typically 5 days after grade release). Regrade requests can be made on Gradescope. Any regrade request past the deadline will not be looked at; this is to enforce the same deadline across all students, so please do not delay in reviewing your work.
 
 For the midterm exam, there will be a regrade request submission window. Please review the solutions and common mistakes before submitting a regrade request. Requests where a rubric item was incorrectly selected or not selected will be reviewed, but any regrade requests that ask to change the rubric or for partial credit will be ignored.
