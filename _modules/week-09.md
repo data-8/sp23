@@ -12,7 +12,7 @@ Mar 13
 
 Mar 15
 : **24**{: .label} Interpreting Confidence
-  : [Slides](https://docs.google.com/presentation/d/13ubB9H0kEMGs1c29OFBkES9pBdEg36ErQCn2ZjfHuY4/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec24.ipynb&branch=main) &#8226; [Demos Empty](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec24_empty.ipynb&branch=main) &#8226;   [Demos (HTML Only)](assets/demo_html/lec24.html) <!-- &#8226; [Video](#)-->
+  : [Slides](https://docs.google.com/presentation/d/13ubB9H0kEMGs1c29OFBkES9pBdEg36ErQCn2ZjfHuY4/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec24.ipynb&branch=main) &#8226; [Demos Empty](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec24_empty.ipynb&branch=main) &#8226;   [Demos (HTML Only)](assets/demo_html/lec24.html) &#8226; [Video](https://youtu.be/8XPxVzSU_sI)
 : *Reading:* [13.3](https://inferentialthinking.com/chapters/13/3/Confidence_Intervals.html), [13.4](https://inferentialthinking.com/chapters/13/4/Using_Confidence_Intervals.html)
 
 Mar 17
