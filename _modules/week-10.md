@@ -5,7 +5,7 @@ class: Berkeley
 
 Mar 20
 : **26**{: .label} The Normal Distribution
-  : [Slides](https://docs.google.com/presentation/d/18c8UYmokO1V1hacMaT5uioYEpb08s0sF2UQ7dTbWT6I/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec26.ipynb&branch=main) <!--&#8226; [Video](#)-->
+  : [Slides](https://docs.google.com/presentation/d/18c8UYmokO1V1hacMaT5uioYEpb08s0sF2UQ7dTbWT6I/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec26.ipynb&branch=main) &#8226; [Video](https://youtu.be/WuT_NwGAvfQ)
 : *Reading:* [14.3](https://inferentialthinking.com/chapters/14/3/SD_and_the_Normal_Curve.html), [14.4](https://inferentialthinking.com/chapters/14/4/Central_Limit_Theorem.html)
 : **Lab**{: .label .label-lab} Lab 08: Sample Mean (Due 3/24)
   : <!--[Lab 08 Worksheet](#)-->
