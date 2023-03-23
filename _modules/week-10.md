@@ -12,7 +12,7 @@ Mar 20
 
 Mar 22
 : **27**{: .label} Sample Means
-  : [Slides](https://docs.google.com/presentation/d/1KidCEI_t2hmLGfETsvwGB1R6NhL6xO_1A3wMy_Gf3Yk/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec27.ipynb&branch=main) <!--&#8226; [Video](#)-->
+  : [Slides](https://docs.google.com/presentation/d/1KidCEI_t2hmLGfETsvwGB1R6NhL6xO_1A3wMy_Gf3Yk/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec27.ipynb&branch=main) &#8226; [Video](https://youtu.be/bB37NOEBnZM)
 : *Reading:* [14.5](https://inferentialthinking.com/chapters/14/5/Variability_of_the_Sample_Mean.html)
 
 Mar 24
