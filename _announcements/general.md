@@ -1,12 +1,13 @@
 ---
-title: Week 10 Announcements
-week: 10
-date: 2023-3-20
+title: Week 12 Announcements
+week: 12
+date: 2023-4-03
 ---
 
 * Post-midterm tutoring signups are open!
-* Homework 8 is due Wednesday, 3/22
-* Lab 8 is due Friday, 3/24
-* Midterm regrades close on Friday, 3/24
+* Homework 9 is due Wednesday, 4/5
+* Project 2 checkpoint is due Friday, 4/7
+    * Project 2 entire project is due Friday, 4/14
+* No lab notebook this week!
 
 {: .fs-5 }
