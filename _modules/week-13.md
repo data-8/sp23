@@ -17,4 +17,5 @@ Apr 14
 : **34**{: .label} Regression Inference
   : <!--[Slides]#) &#8226; [Demos](#) &#8226; [Video](#)-->
 : *Reading:* [16](https://inferentialthinking.com/chapters/16/Inference_for_Regression.html)
+: **Homework**{: .label .label-homework} Homework 12 (Due 4/19)
 : **Project**{: .label .label-project} Project 3: Classifying Movies (Due 4/28)
