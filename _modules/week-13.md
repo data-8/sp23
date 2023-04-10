@@ -4,9 +4,9 @@ class: Berkeley
 ---
 Apr 10
 : **32**{: .label} Guest Lecture: DJ Patil (US Chief Data Scientist under the Obama Administration)
-  : [Intro Slides](https://docs.google.com/presentation/d/1cdsifTK3ZOxuElBH3bBBU8err0cZbcMWwv2eumTHv4A/edit?usp=sharing) <!-- &#8226; [Demos](#) &#8226; [Video](#)-->
-: **Lab**{: .label .label-lab} Lab 09: Regression (Due 4/14)
-  : <!--[Lab 09 Worksheet](#)-->
+  : [Intro Slides](https://docs.google.com/presentation/d/1cdsifTK3ZOxuElBH3bBBU8err0cZbcMWwv2eumTHv4A/edit?usp=sharing) &#8226; [Video](https://youtu.be/LiHMrn2AHpw)
+: **Lab**{: .label .label-lab} [Lab 09: Regression](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Fmaterials%2Fsp23%2Flab%2Flab09%2Flab09.ipynb&branch=main) (Due 4/14)
+  : [Lab 09 Worksheet](https://drive.google.com/file/d/13KYeBGxueP-PYcnEZt25o2mbCgsGXLYQ/view?usp=sharing)
 
 Apr 12
 : **33**{: .label} Residuals
