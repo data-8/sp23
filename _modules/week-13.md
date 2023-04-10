@@ -3,8 +3,8 @@ title: Week 13
 class: Berkeley
 ---
 Apr 10
-: **32**{: .label} Guest Lecture: DJ Patil
-  : <!--[Slides]#) &#8226; [Demos](#) &#8226; [Video](#)-->
+: **32**{: .label} Guest Lecture: DJ Patil (US Chief Data Scientist under the Obama Administration)
+  : [Intro Slides](https://docs.google.com/presentation/d/1cdsifTK3ZOxuElBH3bBBU8err0cZbcMWwv2eumTHv4A/edit?usp=sharing) <!-- &#8226; [Demos](#) &#8226; [Video](#)-->
 : **Lab**{: .label .label-lab} Lab 09: Regression (Due 4/14)
   : <!--[Lab 09 Worksheet](#)-->
 
