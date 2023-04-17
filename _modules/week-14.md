@@ -5,7 +5,7 @@ class: Berkeley
 
 Apr 17
 : **35**{: .label} Updating Probabilities
-  : <!--[Slides]#) &#8226; [Demos](#) &#8226; [Video](#)-->
+  : [Slides](https://docs.google.com/presentation/d/1vR3fV3mOyFIA7DLTVqMiaHgJOqpEW7dx0lhHci6MJwo/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec35.ipynb&branch=main) &#8226; <!-- [Demos (HTML Only)](assets/demo_html/lec35.html) &#8226; [Video](#)-->
 : *Reading:* [13](https://inferentialthinking.com/chapters/13/Estimation.html), [18](https://inferentialthinking.com/chapters/18/Updating_Predictions.html)
 
 Apr 19
