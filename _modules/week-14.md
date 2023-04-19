@@ -11,7 +11,7 @@ Apr 17
 
 Apr 19
 : **36**{: .label} Classification
-  : [Slides](https://docs.google.com/presentation/d/1WYeYzzGc2_ZG2dqJuX-fkPUzpKO20jMcsk2AV6-yHNM/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec36.ipynb&branch=main) <!--&#8226; [Video](#)-->
+  : [Slides](https://docs.google.com/presentation/d/1WYeYzzGc2_ZG2dqJuX-fkPUzpKO20jMcsk2AV6-yHNM/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec36.ipynb&branch=main) &#8226; [Video](https://youtu.be/FnbGyiKAk2g)
 : *Reading:* [17](https://inferentialthinking.com/chapters/17/Classification.html), [17.1](https://inferentialthinking.com/chapters/17/1/Nearest_Neighbors.html), [17.2](https://inferentialthinking.com/chapters/17/2/Training_and_Testing.html), [17.3](https://inferentialthinking.com/chapters/17/3/Rows_of_Tables.html)
 
 Apr 21
