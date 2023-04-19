@@ -1,13 +1,12 @@
 ---
-title: Week 13 Announcements
-week: 13
-date: 2023-4-10
+title: Week 14 Announcements
+week: 14
+date: 2023-4-17
 ---
 
 * Final exam accomodations form due 4/28
-    * Form will be released on Ed on Wednesday, 4/12 
-* Homework 10 is due this Wednesday, 4/12
-* Project 2 is due this Friday, 4/14
-* Lab 9 is due this Friday, 4/14
+* Homework 11 is due this Wednesday, 4/19
+* Homework 12 is due next Wednesday, 4/26
+* Project 3 checkpoint is due this Friday, 4/21
 
 {: .fs-5 }
