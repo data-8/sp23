@@ -16,6 +16,6 @@ Apr 19
 
 Apr 21
 : **37**{: .label} Classifiers
-  : [Slides](https://docs.google.com/presentation/d/1cJdNWt6RbipVPARBOoAZ_9iHDYwUlaIDfnuCS3dF8vI/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec37.ipynb&branch=main) <!--&#8226; [Video](#)-->
+  : [Slides](https://docs.google.com/presentation/d/1cJdNWt6RbipVPARBOoAZ_9iHDYwUlaIDfnuCS3dF8vI/edit?usp=sharing) &#8226; [Demos](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2Flec%2Flec37.ipynb&branch=main) &#8226; [Video](https://youtu.be/7yXUPGIBpIk)
 : *Reading:* [17.4](https://inferentialthinking.com/chapters/17/4/Implementing_the_Classifier.html)
 : **Homework**{: .label .label-homework} [Homework 12](https://data8.datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdata-8%2Fmaterials-sp23&urlpath=retro%2Ftree%2Fmaterials-sp23%2F%2Fmaterials%2Fsp23%2Fhw%2Fhw12%2Fhw12.ipynb&branch=main) (Due 4/26)
