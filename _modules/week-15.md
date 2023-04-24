@@ -5,7 +5,7 @@ class: Berkeley
 
 Apr 24
 : **38**{: .label} Case Study: Tech
-  : <!--[Slides]#) &#8226; [Demos](#) &#8226; [Video](#)-->
+  : [Slides](https://docs.google.com/presentation/d/1sscqryX6ld2IKWrr8HZNChT1jKfVps_0I0SNIM8Luhk/edit?usp=sharing) <!-- &#8226; [Demos](#) &#8226; [Video](#)-->
 : **Lab**{: .label .label-lab} Lab 10: Conditional Probability (Due 4/28)
   : <!--[Lab 10 Worksheet](#)-->
 
