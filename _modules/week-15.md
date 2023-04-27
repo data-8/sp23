@@ -11,7 +11,7 @@ Apr 24
 
 Apr 26
 : **39**{: .label} Conclusion
-  : [Slides](https://docs.google.com/presentation/d/13bJB3gjf_Qbm71LyvNVcgLKPc96TM0YxCjlXIhyS37I/edit?usp=sharing) <!-- &#8226; [Demos](#) &#8226; [Video](#)-->
+  : [Slides](https://docs.google.com/presentation/d/13bJB3gjf_Qbm71LyvNVcgLKPc96TM0YxCjlXIhyS37I/edit?usp=sharing) &#8226; [Video](https://youtu.be/gegyy6cRL-c)
 
 Apr 28
 : **40**{: .label} Review Session
