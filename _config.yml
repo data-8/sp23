@@ -17,7 +17,7 @@ title: Data 8
 description: Foundations of Data Science
 author: Data 8 Staff
 email: data8@berkeley.edu
-baseurl: '/sp23' # the subpath of your site, e.g. /blog
+baseurl: '/su23' # the subpath of your site, e.g. /blog
 url: 'https://www.data8.org' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 logo: "/data8logo.png"
@@ -30,17 +30,14 @@ heading_anchors: true
 permalink: pretty
 aux_links:
   Office Hours:
-    - 'https://www.data8.org/sp23/officehours/'
+    - 'https://www.data8.org/su23/officehours/'
   Textbook:
     - 'https://inferentialthinking.com/chapters/intro.html'
   Ed:
-    - 'https://edstem.org/us/courses/34576/discussion/'
+    - 'https://edstem.org/us/courses/40189/discussion/'
+  Gradescope:
+    - 'https://www.gradescope.com/courses/546043'
 
-# External navigation links
-# nav_external_links:
-#   - title: Textbook
-#     url: https://inferentialthinking.com/chapters/intro.html
-#     hide_icon: true
 
 footer_content:
 

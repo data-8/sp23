@@ -24,7 +24,7 @@ description: >-
 
 **Q: I have a 0 on Gradescope for a lab that I attended and got checked off. Why is this?**
 
-**A:** You likely did not submit the lab. If it is before the regrade deadline, submit the lab, and let your lab GSI know.
+**A:** You likely did not submit the lab. If you are compliant with the lab credit policies and had submitted the lab assignment, reach out to your lab TA.
 
 **Q: I worked with a partner on a project, and they have a grade on Gradescope for the project while I do not. Why is this happening?**
 
@@ -36,7 +36,7 @@ description: >-
 
 **Q: I have some other grading questions. Who should I contact?**
 
-**A:** Please contact your lab GSI.
+**A:** Please contact your lab TA.
 
 <script src="../assets/darkmode.js"></script>
 <script>

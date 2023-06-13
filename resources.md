@@ -44,6 +44,7 @@ We will post student materials in [this folder](https://drive.google.com/drive/f
 Exams and practice exams from previous semesters can be found below. These exams may differ slightly in terms of material covered and syntax used, as the `datascience` module has changed over time.
 
 **Midterms:**
+* [Spring 2023 Midterm]() / [Solutions]() (*Coming Soon*)
 * [Fall 2022 Midterm](https://drive.google.com/file/d/1cCFMvWll17mTdDGG2-bxBfdGh1aBxYFp/view?usp=sharing) / [Solutions](https://drive.google.com/file/d/1xzMslru7cYuq4pFWEdI-KIlB_h0vEmq5/view?usp=sharing)
 * [Spring 2022 Midterm](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-sp22-midterm.pdf) / [Solutions](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-sp22-midterm-solution.pdf)
 * [Fall 2021 Midterm](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-fa21-midterm.pdf) / [Solutions](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-fa21-midterm-solutions.pdf)
@@ -60,6 +61,7 @@ Exams and practice exams from previous semesters can be found below. These exams
 * [Fall 2016 Midterm](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-fa16-midterm.pdf)
 
 **Finals:**
+* [Spring 2023 Final]() / [Solutions]() *Coming Soon*
 * [Fall 2022 Final](https://drive.google.com/file/d/1lMEUafOXIJvWw0Fh_zo2XeE44EMAhC9m/view?usp=sharing) / [Solutions](https://drive.google.com/file/d/1eiJExTi-4dHQry6aQ1L_a4zRWeJtbkzM/view?usp=sharing)
 * [Spring 2022 Final](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-sp22-final.pdf) / [Solutions](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-sp22-final-sols.pdf)
 * [Fall 2021 Final](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-fa21-final.pdf) / [Solutions](https://docs.google.com/viewer?url=https://github.com/data-8/archived-exams/raw/master/data8-fa21-final-solns.pdf)
