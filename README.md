@@ -10,4 +10,4 @@ nav_exclude: true
 UC Berkeley
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
-Spring 2023 offering of Data 8: Foundations of Data Science at UC Berkeley. Redesigned website by James Weichert using Just the Docs.
+Summer 2023 offering of Data 8: Foundations of Data Science at UC Berkeley.
