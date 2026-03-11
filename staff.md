@@ -4,6 +4,9 @@ title: Staff
 description: Data 8 Fall 2022 Staff
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://data8.org/)
+
 # Staff
 
 ## Instructors
